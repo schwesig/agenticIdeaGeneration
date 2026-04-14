@@ -1,5 +1,7 @@
 # PoC: Scraper via Chrome DevTools mit sprite.dev
 
+**Working Title:** DoKa-Scrape
+
 Siehe Issue [#1](https://github.com/schwesig/agenticIdeaGeneration/issues/1).
 
 ## Ziel
